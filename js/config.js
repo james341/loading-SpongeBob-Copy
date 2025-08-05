@@ -124,13 +124,13 @@ var l_musicDisplay = true;
 // (Place the ogg files in the music folder)
 // (You can also use external URL for the ogg files)
 var l_musicPlaylist = [
-	{ogg: "freddyspoweroutsongmodifiedsprin.ogg", name: "Installation Music"},
-	{ogg: "cheapshop.ogg", name: "Installation Music"},
-	{ogg: "suburbanteam.ogg", name: "Installation Music"},
-	{ogg: "thefthomer.ogg", name: "Installation Music"},
+	{ogg: "dayeverInstrumental.ogg", name: "Installation Music"},
+	{ogg: "garycomehomeInstrumental.ogg", name: "Installation Music"},
+	{ogg: "goofygooberrockInstrumental.ogg", name: "Installation Music"},
+	{ogg: "sbobthemob.ogg", name: "Installation Music"},
 	{ogg: "behindtheslaughteremix.ogg", name: "Installation Music"},
-	{ogg: "heldwantedmusic.ogg", name: "Installation Music"},
-	{ogg: "Incredibleagain.ogg", name: "Installation Music"},
+	{ogg: "sweetvictoryInstrumental.ogg", name: "Installation Music"},
+	{ogg: "tiptoppolkthecliffpolka.ogg: "Installation Music"},
 	{ogg: "chocolatelandmusic.ogg", name: "Installation Music"},
 ];
 
@@ -198,4 +198,5 @@ var l_showErrorsIngame = true;
 var checkConfigFile = function() {
 	return true;
 };
+
 
