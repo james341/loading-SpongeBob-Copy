@@ -125,13 +125,14 @@ var l_musicDisplay = true;
 // (You can also use external URL for the ogg files)
 var l_musicPlaylist = [
 	{ogg: "dayeverInstrumental.ogg", name: "Installation Music"},
+	{ogg: "33.ogg", name: "Installation Music"},
 	{ogg: "garycomehomeInstrumental.ogg", name: "Installation Music"},
 	{ogg: "goofygooberrockInstrumental.ogg", name: "Installation Music"},
 	{ogg: "sbobthemob.ogg", name: "Installation Music"},
 	{ogg: "behindtheslaughteremix.ogg", name: "Installation Music"},
 	{ogg: "sweetvictoryInstrumental.ogg", name: "Installation Music"},
 	{ogg: "tiptoppolkthecliffpolka.ogg: "Installation Music"},
-	{ogg: "chocolatelandmusic.ogg", name: "Installation Music"},
+	{ogg: "productionmusicshit.ogg", name: "Installation Music"},
 ];
 
 // Random music order?
@@ -198,5 +199,6 @@ var l_showErrorsIngame = true;
 var checkConfigFile = function() {
 	return true;
 };
+
 
 
