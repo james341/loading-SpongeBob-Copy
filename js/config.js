@@ -73,14 +73,14 @@ var l_bgImageMapBased = false;
 // (You can also use external URL)
 var l_bgImages = [
 	"image1.jpg",
-        "image2.jpg",
-        "image3.jpg",
-        "image4.jpg",
-        "image5.jpg",
-        "image6.jpg",
-        "image7.jpg",
-        "image8.jpg",
-        "image9.jpg",
+    "image2.jpg",
+    "image3.jpg",
+    "image4.jpg",
+    "image5.jpg",
+    "image6.jpg",
+    "image7.jpg",
+    "image8.jpg",
+    "image9.jpg",
 	"image10.jpg",
 	"image11.jpg",
 	"image12.jpg",
@@ -125,6 +125,7 @@ var l_musicDisplay = true;
 // (You can also use external URL for the ogg files)
 var l_musicPlaylist = [
 	{ogg: "dayeverInstrumental.ogg", name: "Installation Music"},
+	{ogg: "alohaandkkshit.ogg", name: "Installation Music"},
 	{ogg: "33.ogg", name: "Installation Music"},
 	{ogg: "garycomehomeInstrumental.ogg", name: "Installation Music"},
 	{ogg: "goofygooberrockInstrumental.ogg", name: "Installation Music"},
@@ -145,7 +146,7 @@ var l_musicVolume = 15;
 
 // Enable custom messages?
 // 'true' or 'false'
-var l_messagesEnabled = false;
+var l_messagesEnabled = true;
 
 // Enter your custom messages below
 var l_messages = [
@@ -199,6 +200,7 @@ var l_showErrorsIngame = true;
 var checkConfigFile = function() {
 	return true;
 };
+
 
 
 
