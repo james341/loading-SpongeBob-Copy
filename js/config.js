@@ -130,6 +130,7 @@ var l_musicPlaylist = [
 	{ogg: "33.ogg", name: "Installation Music"},
 	{ogg: "goofygooberrockInstrumental.ogg", name: "Installation Music"},
 	{ogg: "alohaandkkshit.ogg", name: "Installation Music"},
+	{ogg: "spongebobinstrumental.ogg", name: "Installation Music"},
 	{ogg: "dayeverInstrumental.ogg", name: "Installation Music"},
 	{ogg: "tiptoppolkthecliffpolka.ogg", name: "Installation Music"},
 	{ogg: "garycomehomeInstrumental.ogg", name: "Installation Music"},
@@ -203,4 +204,5 @@ var l_showErrorsIngame = true;
 var checkConfigFile = function() {
 	return true;
 };
+
 
