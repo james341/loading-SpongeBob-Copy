@@ -73,20 +73,20 @@ var l_bgImageMapBased = false;
 // (You can also use external URL)
 var l_bgImages = [
 	"image1.jpg",
-    "image2.jpg",
-    "image3.jpg",
-    "image4.jpg",
-    "image5.jpg",
-    "image6.jpg",
-    "image7.jpg",
-    "image8.jpg",
-    "image9.jpg",
+        "image2.jpg",
+        "image3.jpg",
+        "image4.jpg",
+        "image5.jpg",
+        "image6.jpg",
+        "image7.jpg",
+        "image8.jpg",
+        "image9.jpg",
 	"image10.jpg",
 	"image11.jpg",
 	"image12.jpg",
-	"image13.jpg"
-	"image14.jpg"
-	"image15.jpg"
+	"image13.jpg",
+	"image14.jpg",
+	"image15.jpg",
 	"image16.jpg",
 
 ];
@@ -127,16 +127,14 @@ var l_musicDisplay = true;
 // (Place the ogg files in the music folder)
 // (You can also use external URL for the ogg files)
 var l_musicPlaylist = [
-	{ogg: "dayeverInstrumental.ogg", name: "Installation Music"},
-	{ogg: "alohaandkkshit.ogg", name: "Installation Music"},
-	{ogg: "33.ogg", name: "Installation Music"},
-	{ogg: "garycomehomeInstrumental.ogg", name: "Installation Music"},
-	{ogg: "goofygooberrockInstrumental.ogg", name: "Installation Music"},
-	{ogg: "sbobthemob.ogg", name: "Installation Music"},
+	{ogg: "freddyspoweroutsongmodifiedsprin.ogg", name: "Installation Music"},
+	{ogg: "cheapshop.ogg", name: "Installation Music"},
+	{ogg: "suburbanteam.ogg", name: "Installation Music"},
+	{ogg: "thefthomer.ogg", name: "Installation Music"},
 	{ogg: "behindtheslaughteremix.ogg", name: "Installation Music"},
-	{ogg: "sweetvictoryInstrumental.ogg", name: "Installation Music"},
-	{ogg: "tiptoppolkthecliffpolka.ogg", name: "Installation Music"},
-	{ogg: "productionmusicshit.ogg", name: "Installation Music"},
+	{ogg: "heldwantedmusic.ogg", name: "Installation Music"},
+	{ogg: "Incredibleagain.ogg", name: "Installation Music"},
+	{ogg: "chocolatelandmusic.ogg", name: "Installation Music"},
 ];
 
 // Random music order?
@@ -203,14 +201,3 @@ var l_showErrorsIngame = true;
 var checkConfigFile = function() {
 	return true;
 };
-
-
-
-
-
-
-
-
-
-
-
