@@ -88,6 +88,8 @@ var l_bgImages = [
 	"image14.jpg",
 	"image15.jpg",
 	"image16.jpg",
+	"image17.jpg",
+	"image18.jpg",
 
 ];
 
@@ -204,5 +206,6 @@ var l_showErrorsIngame = true;
 var checkConfigFile = function() {
 	return true;
 };
+
 
 
