@@ -131,6 +131,7 @@ var l_musicDisplay = true;
 var l_musicPlaylist = [
 	{ogg: "33.ogg", name: "Installation Music"},
 	{ogg: "goofygooberrockInstrumental.ogg", name: "Installation Music"},
+	{ogg: "employeeofthemonthInstallmusic.ogg", name: "Installation Music"},
 	{ogg: "wishcouldflyInstrumental.ogg", name: "Installation Music"},
 	{ogg: "alohaandkkshit.ogg", name: "Installation Music"},
 	{ogg: "spongebobinstrumental.ogg", name: "Installation Music"},
@@ -284,6 +285,7 @@ var l_showErrorsIngame = true;
 var checkConfigFile = function() {
 	return true;
 };
+
 
 
 
