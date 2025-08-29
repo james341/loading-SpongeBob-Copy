@@ -154,7 +154,7 @@ var l_musicVolume = 15;
 
 // Enable custom messages?
 // 'true' or 'false'
-var l_messagesEnabled = false;
+var l_messagesEnabled = true;
 
 // Enter your custom messages below
 var l_messages = [
@@ -168,7 +168,6 @@ var l_messages = [
 	"Regardless of personal opinions, the rules are in place to be followed. If you have concerns, you're welcome to share them respectfully but adherence is mandatory. Failure to comply may result in serious consequences!",
 	"Do not Powergame. You cannot force actions upon others without their consent or a fair chance to react. Use /me attempts to instead of forcing outcomes!",
 	"Donations and packages (e.g., VIP, PAC3) are non-refundable. AN reserves the right to revoke or alter any perks at any time. No refunds will be given for changes of mind!",
-	"Please do not attempt chargebacks. If you experience any issues, contact staff directly we're here to help. Chargebacks will result in a permanent ban!",
 	"Please do not attempt chargebacks. If you experience any issues, contact staff directly we're here to help. Chargebacks will result in a permanent ban!",
 	"All donations are final. No refunds for VIP, PAC3, or any other perks. We may modify or revoke perks at any time. Change-of-mind refunds will not be honored!",
 	"Please don’t attempt chargebacks. If there’s an issue, reach out to staff we’re happy to help, but chargebacks will get you banned!",
@@ -191,7 +190,7 @@ var l_messages = [
 	"Erotic Roleplay is strictly prohibited! Participating in ERP violates server rules and will lead to a ban. Please adhere to the community guidelines and show respect for others!",
 	"No RDM, MRDM, VDM basically, don’t go around killing people for no reason. Or a middle ground!",
 	"Attempting to charge back a donation or purchase is a serious violation of our terms and may result in a permanent ban!",
-	"Chargeback attempts are treated as fraud and will result in immediate loss of access to any associated services or perks!",
+	"Chargeback attempts are considered fraud and will result in the immediate loss of access to all associated services and perks!",
 	"No RDM, MRDM, VDM, etc Random Death Match, Mass Random Death Match, Vehicle Death Match, etc!",
 	"Be kind, friendly and respectful to one another! Any intentional harassment, bad behaviour and bullying will not be tolerated. All Discord usernames, statuses and profile pictures should also be kept respectful and you shouldn’t be saying anything you think is inappropriate!",
 	"The safety and well-being of our members, particularly minors, is a shared responsibility. We encourage all members to actively participate in maintaining a safe community by adhering to these rules and reporting any violations they may witness!",
@@ -223,7 +222,7 @@ var l_messages = [
 	"Please do not advertise your own content or server—this includes servers, products, or services even in private messages. We want to keep the community free of spam for everyone!",
 	"Evading a ban or warning by using an alternate Steam or GMod account is strictly prohibited and will lead to a permanent ban!",
 	"If there’s a problem, just reach out to our staff we’re happy to help! Please don’t file a chargeback, as it will lead to a ban!",
-	"Value Your Life You should act as if your character wants to survive. Suicide-by-cop, pointless rushing, or unrealistic heroics are FailRP!",
+	"Value your life you should act as if your character wants to survive. Suicide-by-cop, pointless rushing, or unrealistic heroics are considered FailRP!",
 	"No RDM (Random Deathmatch): Uh, attacking or killing other players without a valid in-roleplay reason is, uh, strictly prohibited!",
 	"KOS signs must be clearly placed at the entrance of a KOS area and should be appropriately sized and colored for visibility. Any attempts to bait players into areas with unclear or obscure KOS signs will result in staff-issued punishment!",
 	"You are not allowed to take control of locations. If you raid a place, you must leave once your objective is achieved. Do NOT remain to obstruct others from returning for an extended period!",
@@ -285,6 +284,7 @@ var l_showErrorsIngame = true;
 var checkConfigFile = function() {
 	return true;
 };
+
 
 
 
