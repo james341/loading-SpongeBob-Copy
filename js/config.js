@@ -130,6 +130,7 @@ var l_musicDisplay = true;
 // (You can also use external URL for the ogg files)
 var l_musicPlaylist = [
 	{ogg: "33.ogg", name: "Installation Music"},
+	{ogg: "employeeoftheshitybromonth.ogg", name: "Installation Music"},
 	{ogg: "goofygooberrockInstrumental.ogg", name: "Installation Music"},
 	{ogg: "employeeofthemonthInstallmusic.ogg", name: "Installation Music"},
 	{ogg: "wishcouldflyInstrumental.ogg", name: "Installation Music"},
@@ -279,6 +280,7 @@ var l_showErrorsIngame = true;
 var checkConfigFile = function() {
 	return true;
 };
+
 
 
 
