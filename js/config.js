@@ -174,7 +174,6 @@ var l_messages = [
 	"Do not engage in arguments or introduce controversial topics in public chats. Any disputes should be resolved privately, either through direct messages or by contacting a staff member. Failure to comply will result in disciplinary action!",
 	"Common Sense Applies: Not every scenario is covered by the rules. If your actions harm roleplay or negatively impact others, it’s not allowed!",
 	"Our admins and moderators are trusted to take action when needed. If you think something was handled unfairly, you’re welcome to file a ban appeal—we’ll make sure it’s reviewed properly!",
-	"From 12:00 AM to 5:00 AM (in-game), animatronics have full KOS rights. The restaurant is considered closed during these hours—anyone who enters does so at their own risk and may be eliminated on sight!",
 	"Whether you agree with them or not, the regulations exist for a reason and must be followed. Concerns can be raised appropriately, but ignoring the rules will lead to severe punishment!",
 	"Threats against any member will not be tolerated. This includes death threats, scamming, blackmail, and suspicious links or websites claiming to offer free items. Ensure that everything you post complies with the law!",
 	"No ERP (Erotic Roleplay) Absolutely no ERP or sexual content, even if intended as a joke. This includes suggestive emotes or text!",
@@ -198,9 +197,6 @@ var l_messages = [
 	"Do Not Exploit or Glitch Any exploitation of bugs, glitches, map issues, or unintended mechanics will result in punishment!",
 	"We expect everyone to treat each other with respect. Harmful or rude comments aren't welcome here let’s keep things positive and inclusive!",
 	"Any form of prop abuse is strictly prohibited. This includes, but is not limited to, prop-blocking, prop-killing, prop-bridging, or using an excessive number of props!",
-	"Please No Camping The Animatronics should not be camping in one location, such as the office, for extended periods unless it aligns with RP or game mechanics!",
-	"Between 12 AM and 5 AM in-game, the animatronics enter night mode and are allowed to KOS. The restaurant is closed — any humans caught inside may be terminated immediately!",
-	"Uh, ok so just a quick heads up no saying slurs, like, uh, the N-word. If you do, you'll get timed out for an hour as a warning. Uh, you get two warnings, and if you still don't listen, well… uh, you’ll be kicked. So, uh, yeah—just keep it clean, alright? Thanks!",
 	"Admins and moderators have the discretion to mute, kick, or ban players when necessary. If you believe a decision was unfair, please submit a ban appeal via the forms, and we will review the situation fairly!",
 	"Do not attempt/say you are going to DDOS/crash the server. - Don't walk up to somebody and say I'm going to DDOS this fucking stupid server as a joke, it will be taken seriously and you will be permabanned!",
 	"We are committed to maintaining a safe and inclusive space for all members. These rules will be actively monitored and enforced, and we’ll continue to review and update them as needed!",
@@ -217,8 +213,7 @@ var l_messages = [
 	"We’re committed to making sure everyone has a great experience here. If you have any questions or need help, don’t hesitate to reach out to our staff they’re always happy to assist!",
 	"The use of slurs, such as the N-word, is strictly prohibited. Violations will result in a one-hour timeout as a warning. You will receive up to two warnings; any further violations will lead to removal from the platform!",
 	"Your donation status does not change the fact that you are a valued member of our community. However, it does not place you above our rules or any other expectations. You are still required to follow our guidelines!",
-	"Attacking with splash damage through props, walls, or beyond the pizzeria's territory is strictly forbidden. Intentionally attacking animatronics and plush toys outside the pizzeria's territory is also prohibited. Climbing stairs is not allowed (except for Purple Guy in the guise of a security guard). Punishment: Warning / 10-20 minute ban!",
-	"Value your character’s life. Reckless behavior such as suicide-by-cop, unnecessary rushing, or unrealistic heroics—is considered FailRP!",
+	"Your character’s life must be valued. Reckless actions such as suicide-by-cop, unnecessary rushing, or unrealistic heroics are considered FailRP!",
 	"Please do not advertise your own content or server—this includes servers, products, or services even in private messages. We want to keep the community free of spam for everyone!",
 	"Evading a ban or warning by using an alternate Steam or GMod account is strictly prohibited and will lead to a permanent ban!",
 	"If there’s a problem, just reach out to our staff we’re happy to help! Please don’t file a chargeback, as it will lead to a ban!",
@@ -284,6 +279,7 @@ var l_showErrorsIngame = true;
 var checkConfigFile = function() {
 	return true;
 };
+
 
 
 
